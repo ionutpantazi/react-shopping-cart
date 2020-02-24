@@ -1,4 +1,4 @@
 # react-shopping-cart
-
-Demo:
-![](react-shopping-cart.gif)
+  simple shopping cart application made with react-create-app
+# Demo:
+  ![](react-shopping-cart.gif)
