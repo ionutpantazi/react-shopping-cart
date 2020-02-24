@@ -1,0 +1,4 @@
+[
+    {"id":1,"nume":"mere", "imagine":"./products/mere.jpg", "pret":10},
+    {"id":2,"nume":"banane", "imagine":"./products/banane.jpg", "pret":20}
+]
