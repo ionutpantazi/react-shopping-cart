@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/ionutpantazi/react-shopping-cart.svg?style=flat-square)](https://https://github.com/ionutpantazi/react-shopping-cart/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/ionutpantazi/react-shopping-cart.svg?style=flat-square)](https://github.com/ionutpantazi/react-shopping-cart/blob/master/LICENSE)
 # react-shopping-cart
   simple shopping cart application built with create-react-app
 # Demo:
